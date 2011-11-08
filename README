@@ -1,0 +1,16 @@
+=======================
+MTM Snap Metric Version
+=======================
+**Warning: This work, including the description below, is still in progress, it is NOT completed. Please consider frequent changes.**
+
+Introduction
+------------
+MTM Snap is a snap-together desktop CNC milling machine designed by Center for Bits and Atoms, MIT. (http://mtm.cba.mit.edu/machines/mtm_snap-lock/) 
+
+The Metric Version
+------------------
+The metric version of MTM Snap is modified upon the original version by Aaron Zhang (http://www.taomaker.com). The board dimensions are modified for use with metric parts, inlcuding linear guides, lead screws, bearings etc.
+
+Copyright Infomation
+--------------------
+(c) Massachusetts Institute of Technology 2011 Permission granted for experimental and personal use. License for commercial sale available from MIT.
