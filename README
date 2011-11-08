@@ -11,6 +11,10 @@ The Metric Version
 ------------------
 The metric version of MTM Snap is modified upon the original version by Aaron Zhang (http://www.taomaker.com). The board dimensions are modified for use with metric parts, inlcuding linear guides, lead screws, bearings etc.
 
+How to Use
+----------
+The files can be opened using Autodesk Inventor. Autodesk offers free student versions. You can also import the files using other 3D geometry design software.
+
 Copyright Infomation
 --------------------
 (c) Massachusetts Institute of Technology 2011 Permission granted for experimental and personal use. License for commercial sale available from MIT.
